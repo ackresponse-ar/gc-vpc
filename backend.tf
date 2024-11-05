@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "ar-tf-vpc-state"
-    prefix = "terraform/vpc/state"
+    bucket = "ar-tf-state-concept"
+    prefix = "terraform/state"
   }
 }
