@@ -1,3 +1,3 @@
 provider "google" {
-  project = "cloud-poc-gke-enterprise"
+  project = "concepts-demo"
 }
